@@ -1,0 +1,16 @@
+{
+  "name": "mkv_torrent_downloader_and_converter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "author": "Brian Le",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "fs-extra": "^2.0.0",
+    "handbrake-js": "^2.1.0"
+  }
+}
